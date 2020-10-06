@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scene on Georgios Farinis</title>
-    <link>https://farinisgeorgios.github.io/FarinisGeorgios/tags/scene/</link>
+    <link>https://farinisgeorgios.github.io/Portfolio/tags/scene/</link>
     <description>Recent content in scene on Georgios Farinis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2020 10:50:08 -0400</lastBuildDate><atom:link href="https://farinisgeorgios.github.io/FarinisGeorgios/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Oct 2020 10:50:08 -0400</lastBuildDate><atom:link href="https://farinisgeorgios.github.io/Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project I: The Fraud Detection.</title>
-      <link>https://farinisgeorgios.github.io/FarinisGeorgios/post/project-1/</link>
+      <link>https://farinisgeorgios.github.io/Portfolio/post/project-1/</link>
       <pubDate>Mon, 05 Oct 2020 10:50:08 -0400</pubDate>
       
-      <guid>https://farinisgeorgios.github.io/FarinisGeorgios/post/project-1/</guid>
+      <guid>https://farinisgeorgios.github.io/Portfolio/post/project-1/</guid>
       <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
     </item>
     
